@@ -48,9 +48,3 @@ Through this simulation, participants gain insights into:
 ## Disclaimer
 This project is for educational purposes only. Unauthorized access to protected data or systems is illegal and unethical.
 
-## About Forage
-Forage offers job simulations in collaboration with leading companies like AIG to help learners develop practical skills for their careers.
-
-## About AIG
-American International Group (AIG) is a leading global insurance organization, providing a wide range of property-casualty insurance, life insurance, retirement solutions, and other financial services.
-
